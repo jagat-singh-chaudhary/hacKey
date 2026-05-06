@@ -1,4 +1,4 @@
-hacKey shows methods to validate different API keys found on a Bug Bounty Program or a pentest.
+# hacKey shows methods to validate different API keys found on a Bug Bounty Program or a pentest.
 
 # Table of Contents
 
